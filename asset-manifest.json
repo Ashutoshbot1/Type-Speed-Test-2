@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Type-Speed-Test-2/static/css/main.e6c13ad2.css",
+    "main.js": "/Type-Speed-Test-2/static/js/main.8610be12.js",
+    "static/js/845.6ee63214.chunk.js": "/Type-Speed-Test-2/static/js/845.6ee63214.chunk.js",
+    "static/media/typeSoft.wav": "/Type-Speed-Test-2/static/media/typeSoft.3e307070c0d43972460c.wav",
+    "static/media/keyboard.wav": "/Type-Speed-Test-2/static/media/keyboard.f9440324ce3fbfc79f5b.wav",
+    "static/media/cherryBlue.wav": "/Type-Speed-Test-2/static/media/cherryBlue.f4cad75e8a5792bb3d25.wav",
+    "index.html": "/Type-Speed-Test-2/index.html",
+    "main.e6c13ad2.css.map": "/Type-Speed-Test-2/static/css/main.e6c13ad2.css.map",
+    "main.8610be12.js.map": "/Type-Speed-Test-2/static/js/main.8610be12.js.map",
+    "845.6ee63214.chunk.js.map": "/Type-Speed-Test-2/static/js/845.6ee63214.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8610be12.js"
+  ]
+}
